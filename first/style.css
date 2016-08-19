@@ -1,0 +1,33 @@
+html, body {
+  height: 100%;
+
+
+}
+
+.header {
+  background-color: gray;
+  height: 15%;
+  width: 100%;
+}
+
+
+
+.footer {
+  background-color: black;
+  height: 15%;
+  width: 100%;
+  margin-top: 95%;
+}
+
+.left {
+  background-color: #D3D3D3;
+  height:100%;
+  width:15%;
+  float:left;
+}
+.right {
+  background-color: #D3D3D3;
+  height:100%;
+  width: 15%;
+  float:right;
+}
