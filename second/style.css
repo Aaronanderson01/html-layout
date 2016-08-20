@@ -1,0 +1,46 @@
+html, body {
+  height:100%;
+  margin:0;
+  padding:0;
+}
+.wrapper {
+  width:100%;
+  height:900px;
+
+
+}
+.left {
+  background-color: #4A90E2;
+  width:33.33%;
+  height:900px;
+  float:left;
+
+
+}
+
+.middle {
+  background-color: #50E3C2;
+  width: 33.33%;
+  height:900px;
+  float:left;
+}
+
+.right {
+background-color: #5ac26b;
+width:33.33%;
+height:600px;
+float:left;
+}
+.red {
+  background-color: red;
+  width:33.33%;
+  height:250px;
+  float:left;
+  text-align: center;
+  padding-top: 50px;
+}
+.text {
+  text-align: center;
+  color: white;
+  display:table-cell;
+}
